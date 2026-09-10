@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_58872_needit.Date 13 aug</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>test</description>
+        <mobile_callable>false</mobile_callable>
+        <name>Date 13 aug</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var Date_13_aug = Class.create();
+Date_13_aug.prototype = {
+    initialize: function() {
+    },
+
+    type: 'Date_13_aug'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-13 15:50:00</sys_created_on>
+        <sys_id>e44c74fbc3aa0710f174b13ed4013169</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Date 13 aug</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_include_e44c74fbc3aa0710f174b13ed4013169</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-13 15:50:00</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>e44c74fbc3aa0710f174b13ed4013169</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-13 15:49:59</sys_created_on>
+        <sys_id>f34c78fbc3aa0710f174b13ed4013183</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-13 15:49:59</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
