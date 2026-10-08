@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter">
+    <sys_ws_query_parameter action="DELETE">
+        <example_value/>
+        <name> ni_query</name>
+        <required>false</required>
+        <short_description/>
+        <sys_class_name>sys_ws_query_parameter</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-10-01 18:03:29</sys_created_on>
+        <sys_id>56b0f1a7c3e34794f174b13ed401317b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> ni_query</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_query_parameter_56b0f1a7c3e34794f174b13ed401317b</sys_update_name>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-10-01 18:03:29</sys_updated_on>
+        <web_service_definition display_value="NeedIt API">4538c16bc3e70794f174b13ed401317a</web_service_definition>
+    </sys_ws_query_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e1bc317ffb1b1658843df4344eefdc7c</instance_id>
+        <instance_name>dev294865</instance_name>
+        <name>sys_ws_query_parameter_56b0f1a7c3e34794f174b13ed401317b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter"><sys_ws_query_parameter action="INSERT_OR_UPDATE"><example_value/><name> ni_query</name><required>false</required><short_description/><sys_class_name>sys_ws_query_parameter</sys_class_name><sys_created_by>Syeda</sys_created_by><sys_created_on>2026-10-01 18:03:29</sys_created_on><sys_id>56b0f1a7c3e34794f174b13ed401317b</sys_id><sys_mod_count>0</sys_mod_count><sys_name> ni_query</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ws_query_parameter_56b0f1a7c3e34794f174b13ed401317b</sys_update_name><sys_updated_by>Syeda</sys_updated_by><sys_updated_on>2026-10-01 18:03:29</sys_updated_on><web_service_definition display_value="NeedIt API">4538c16bc3e70794f174b13ed401317a</web_service_definition></sys_ws_query_parameter></record_update>]]></payload>
+        <payload_hash>1383484434</payload_hash>
+        <record_name> ni_query</record_name>
+        <reverted_from/>
+        <source>857b8d3cc3570f90f174b13ed401310e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-10-01 18:03:29</sys_created_on>
+        <sys_id>01c079a7c3e34794f174b13ed4013132</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0f8a2baa40000001</sys_recorded_at>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-10-01 18:03:29</sys_updated_on>
+        <type>Scripted REST Query Parameter</type>
+        <update_guid>cdc079a733e347943598e3acbaeb0230</update_guid>
+        <update_guid_history>cdc079a733e347943598e3acbaeb0230:1383484434</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-10-01 18:05:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_query_parameter">sys_ws_query_parameter</sys_db_object>
+        <sys_id>1db7841960ee42f09704781e82bda401</sys_id>
+        <sys_metadata>56b0f1a7c3e34794f174b13ed401317b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> ni_query</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ws_query_parameter_56b0f1a7c3e34794f174b13ed401317b</sys_update_name>
+        <sys_update_version display_value="sys_ws_query_parameter_56b0f1a7c3e34794f174b13ed401317b">01c079a7c3e34794f174b13ed4013132</sys_update_version>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-10-01 18:05:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
